@@ -1,10 +1,10 @@
 const form = document.querySelector('.quiz-form')
+const textScore = document.querySelector('.score')
 
 const anserwsCorrect = ['C', 'A', 'B', 'C']
 
 form.addEventListener('submit', event => {
     event.preventDefault()
-
 
 
 let score = 0
@@ -22,7 +22,7 @@ let score = 0
     }
  })
 
-
+  textScore.innerHTML = `Seu score é: ${score}`  
 
 
 })
