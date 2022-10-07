@@ -22,7 +22,7 @@ let score = 0
     }
  })
 
-  textScore.innerHTML = `Seu score é: ${score}`  
+  textScore.innerHTML = `<h3>Seu score é: ${score}</h3`  
 
 
 })
