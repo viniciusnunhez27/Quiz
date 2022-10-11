@@ -9,6 +9,14 @@
 - Para saber seu nível de conhecimento após selecionar os campos e clicar no botão " Enviar " será informando o seu Score.
 
 
+## Tecnologias Utilizadas.
+
+- Html, Css , Javascript.
+
+## Qual a intenção do projeto.
+
+Praticar os conhecimento em Javascript Vanilla, conceitos como manipulação do DOM,Condições e envio de Formulários.
+
 ## Vídeo desmostrativo
 
 ![Quiz _ Testando seu conhecimento !!!](https://user-images.githubusercontent.com/66691283/194566708-1e71d374-f922-4e9e-b3fd-3d6afe82ab89.gif)
